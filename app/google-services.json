@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "64988614718",
+    "project_id": "aktu-papers-and-quantum",
+    "storage_bucket": "aktu-papers-and-quantum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64988614718:android:abb74d7975d901fb58016f",
+        "android_client_info": {
+          "package_name": "com.adityat.aktupapersandquantum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRtlHTYV0P321UmcQH6bXN8HxGJiDKiHs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
