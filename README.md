@@ -5,7 +5,7 @@ Discover the ultimate financial tool with our app! Effortlessly create and manag
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1Wkp2fojPfyGopbrM5xOh5RVAXdrXUXOi/view?usp=sharing)
+![https://drive.google.com/file/d/1-r3pNQmdrNslg9r-zD8i6-rmX1mHFhVr/view?usp=drive_link](https://drive.google.com/file/d/1Wkp2fojPfyGopbrM5xOh5RVAXdrXUXOi/view?usp=sharing)
 
 ![App Screenshot](https://drive.google.com/file/d/1-r3pNQmdrNslg9r-zD8i6-rmX1mHFhVr/view?usp=drive_link)
 
